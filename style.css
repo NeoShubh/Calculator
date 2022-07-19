@@ -81,6 +81,7 @@ body{
 }
 
 .ref-button{
+	margin-left:3.5rem;
     padding: 1.3em 3em;
     font-size: 12px;
     text-transform: uppercase;
